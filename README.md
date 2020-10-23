@@ -14,9 +14,9 @@ A [CSV file](https://github.com/wendyhwl/Movie-Title-Resolution/blob/main/output
 * Second column: average rating rounded to two decimal places
 * Sorted by title, include only movies with ratings in the original data set
 
-## Language
+## Language & Library
 
-Python3
+Python3, Numpy, Pandas
 
 ## Acknowledgement
 
