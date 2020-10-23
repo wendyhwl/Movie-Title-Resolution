@@ -2,7 +2,7 @@
 
 Practicing data cleaning and basic operations with the provided data.
 
-Simon Fraser University CMPT353 - Summer 2020
+Simon Fraser University CMPT353
 
 ## Description
 ### Objective
