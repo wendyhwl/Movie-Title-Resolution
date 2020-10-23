@@ -22,7 +22,7 @@ python3 average_ratings.py movie_list.txt movie_ratings.csv output.csv
 
 ## Language
 
-Python
+Python3
 
 ## Acknowledgement
 
