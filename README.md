@@ -14,12 +14,6 @@ A [CSV file](https://github.com/wendyhwl/Movie-Title-Resolution/blob/main/output
 * Second column: average rating rounded to two decimal places
 * Sorted by title, include only movies with ratings in the original data set
 
-### How to run
-In terminal:
-```bash
-python3 average_ratings.py movie_list.txt movie_ratings.csv output.csv
-```
-
 ## Language
 
 Python3
